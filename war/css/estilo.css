@@ -1,0 +1,13 @@
+body{
+	background: url(../img/d2.jpg)no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+
+}
+#contenedor{
+	background: rgba(0, 0, 0, 0) url("../img/content-tail.png") repeat scroll left top;
+	width: 100%;
+	padding: 20px 20px 20px 20px;
+}
